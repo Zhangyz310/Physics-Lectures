@@ -1,0 +1,66 @@
+\contentsline {section}{\numberline {1}\text {\kaishu 麦克斯韦方程组}}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\text {\kaishu 静电现象的基本理论描述}}{1}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}\text {\kaishu 库伦定律}(Coulomb's Law)}{1}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}\text {\kaishu 叠加原理}}{2}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}\kaishu 电场}{3}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}\kaishu 高斯定理(Gauss's Law)}{4}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}\kaishu 静电场环路定理}{7}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}\kaishu 电偶极子}{11}{subsubsection.1.1.6}%
+\contentsline {subsection}{\numberline {1.2}\kaishu 静磁现象的基本理论描述}{13}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}\kaishu 电流（磁的来源）}{13}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}\kaishu 安培定律(Ampère's Law)}{15}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}\kaishu 磁场}{16}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}\kaishu 磁场的散度与旋度}{17}{subsubsection.1.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.5}\kaishu 磁偶极子}{19}{subsubsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.3}\kaishu 麦克斯韦方程组}{22}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}\kaishu 电磁感应定律}{22}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}\kaishu 真空中麦克斯韦方程组(Maxwell's equations)}{24}{subsubsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.4}\kaishu 介质中的麦克斯韦方程组}{27}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}\kaishu 介质的极化与磁化}{27}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}\kaishu 极化电荷和磁化电流}{29}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}\kaishu 介质中的麦克斯韦方程组}{32}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}\kaishu 本构关系}{33}{subsubsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.5}\kaishu 麦克斯韦方程组的边界条件}{34}{subsection.1.5}%
+\contentsline {subsection}{\text {\kaishu 附录 1.A\hskip 1em\relax 库伦定律的平方反比律}}{38}{section*.3}%
+\contentsline {subsection}{\text {\kaishu 附录 1.B\hskip 1em\relax 麦克斯韦方程组的完备性}}{39}{section*.4}%
+\contentsline {subsection}{\text {\kaishu 附录 1.C\hskip 1em\relax 磁单极子}}{41}{section*.5}%
+\contentsline {section}{\numberline {2}\text {\kaishu 电磁场守恒定律和对称性}}{42}{section.2}%
+\contentsline {subsection}{\numberline {2.1}\kaishu 真空中电磁场的能量守恒定律}{42}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}\kaishu 电磁场能量图像}{42}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}\kaishu 电磁场能量密度}{43}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}\kaishu 典例：缓慢充电的电容器}{45}{subsubsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.2}\kaishu 电磁场的动量守恒定律}{47}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}\kaishu 动量守恒定律}{47}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}\kaishu 典例：麦克斯韦应力张量计算 \& 带电粒子动量}{51}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}\kaishu 角动量守恒定律}{54}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}\kaishu 介质中电磁场的守恒定律}{57}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}\kaishu 介质中的能量守恒}{57}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}\kaishu 介质中的动量守恒}{59}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}\kaishu 电磁场的对称与规范}{61}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}\kaishu 电磁场的对称性（部分）}{61}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}\kaishu 电磁场的势与规范对称性}{62}{subsubsection.2.4.2}%
+\contentsline {subsection}{\text {\kaishu 附录 2.A\hskip 1em\relax 光子的自旋}}{65}{section*.6}%
+\contentsline {subsection}{\text {\kaishu 附录 2.B\hskip 1em\relax 介质中极化/磁化的能量}}{67}{section*.7}%
+\contentsline {subsection}{\text {\kaishu 附录 2.C\hskip 1em\relax 液态介电体内受到的电力}}{68}{section*.8}%
+\contentsline {subsection}{\text {\kaishu 附录 2.D\hskip 1em\relax 固体受到的电力}}{72}{section*.9}%
+\contentsline {section}{\numberline {3}\kaishu 静电学 I}{75}{section.3}%
+\contentsline {subsection}{\numberline {3.1}\kaishu 静电学基本问题}{75}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}\kaishu 静电方程}{75}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}\kaishu 静电边界条件}{77}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}\kaishu 格林定理}{78}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}\kaishu 边界条件下的唯一性定理}{79}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}\kaishu 静电场边值问题的形式解}{82}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}\kaishu 导体系统}{84}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}\kaishu 导体的边界条件}{84}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}\kaishu 格林互易定理}{85}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}\kaishu 导体组的能量}{87}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}\kaishu 电容}{92}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}\kaishu 作用在导体上的力}{94}{subsubsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.3}\kaishu 静电体系的稳定性问题}{97}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}\kaishu 汤姆孙定理(Thomson's theorem)}{98}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}\kaishu 恩绍定理(Earnshaw's theorem)}{102}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}\kaishu 基本的电介质静电学}{104}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}\kaishu 电介质的边界条件}{104}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}\kaishu 补充：各向同性介电体的电致伸缩}{106}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}\kaishu 补充：晶体的介电性质}{107}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}\kaishu 补充：压电体}{110}{subsubsection.3.4.4}%
